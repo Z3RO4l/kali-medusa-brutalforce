@@ -1,4 +1,4 @@
-#**ATAQUES DE BRUTE FORCE COM KALI LINUX E MEDUSA**
+#**Brute-Force Attack Using Kali Linux and Medusa**
 
 This project demonstrates brute-force attacks in a controlled environment, using Kali Linux and the Medusa tool, as proposed in the challenge. 
 Metasploitable 2 was used as the controlled test environment.
